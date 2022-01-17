@@ -1,1 +1,55 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Div-esimerkkejä</title>
+    <link rel="stylesheet" href="uutinen.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&family=Quicksand:wght@600&display=swap" rel="stylesheet">"
+</head>
+<body class="light-theme">
+    <br><br><br>
+    <!-- Navigointi alkaa-->
+    <ul>
+        <li class="active"><a href="#">Uutiset</a></li>
+        <li><a href="#">Urheilu</a></li>
+        <li><button class="btn">Tumma teema</button></li>
+      </ul>
+    <!-- Navigointi loppuu-->
+
+    <a href="#">
+    <div class="uutinen">
+    <img src="https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_5120,h_2880/w_636,h_358,ar_1.7777777777777777,dpr_1,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/v1639402300/39-89137761b74ad75cb7d" alt="Inger Støjberg">
+    <h2>Entinen maahanmuuttoministeri tuomittiin ehdottomaan vankeuteen</h2>
+    <p>Ministeri on tuomion mukaan määrännyt turvapaikkaa hakeneita pariskuntia erotettaviksi toisistaan laittomalla tavalla.</p>
+    </div></a>
+
+    <a href="#">
+    <div class="uutinen">
+        <img src="https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_180,w_5464,h_3073/w_636,h_358,ar_1.7777777777777777,dpr_1,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/v1638435960/39-88706761a88c13e96e2" alt="Näsin terveysasema Porvoossa ">
+        <h2>Tuhannet sote-kiinteistöt ovat jo peruskorjausiässä</h2>
+        <p>Kiinteistöt siirtyvät uusien hyvinvointialueiden käyttöön, mutta niiden omistus säilyy kunnissa.</p>
+    </div></a>
+
+    <a href="#">
+    <div class="uutinen">
+        <img src="https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_2823,h_1585/w_636,h_358,ar_1.7777777777777777,dpr_1,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/v1639396638/39-89129261b734bcac6a4" alt="Saukko">
+        <h2>Rantavedestä kuului kimeää vinkunaa</h2>
+        <p>Maiju Hannonen oli kolaamassa jäälle luistinrataa, kun hän yllättäen joutui eläimen pelastajaksi. Kaislikossa vinkui orpo saukko.</p>
+    </div></a>
+
+    <a href="#">
+    <div class="uutinen">
+        <img src="https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_3780,h_2127/w_636,h_358,ar_1.7777777777777777,dpr_1,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/v1639119717/39-89022461b2fb1e93575" alt="Arvomaisema">
+        <h2>Suomessa on 186 arvokasta maisema-aluetta</h2>
+        <p>Valtakunnallisesti arvokkaiden maisema-alueiden lista on päivitetty tänä vuonna. Mukaan tuli kymmeniä uusia alueita ja osa vanhoista poistui.</p>
+    </div></a>
+
+    <script src="app.js"></script>
+<noscript>You need to enable JavaScript to view the full site.</noscript>
+</body>
+</html>
